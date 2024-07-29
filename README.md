@@ -32,7 +32,7 @@ pip install numpy matplotlib seaborn ipython
 
 ## Usage
 
-1. **Prepare Q-Tables**: Ensure you have a JSON file with Q-tables for the AI. This file should be named `randomfirst.json` or modify the code to use a different file name.
+1. **Prepare Q-Tables**: Ensure you have a JSON file with Q-tables for the AI. This file should be named `randomfirst.json` or `qtable.json` or `aifirst.json`. Modify the `human_play` function in code to use a different file name.
 
 2. **Run the Game**: Execute the Python script to start the game. The AI will make moves based on the Q-tables, and the human player will be prompted to make a move.
 
